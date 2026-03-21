@@ -1,8 +1,8 @@
-SKILL/
-DATA/
-conversationLog.md
-file_registry.md
-out/
-cache/
+# Project Pandem GitIgnore
+node_modules/
+agent/node_modules/
+contracts/lib/
 contracts/out/
 contracts/cache/
+contracts/broadcast/
+.env

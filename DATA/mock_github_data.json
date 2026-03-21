@@ -1,0 +1,19 @@
+{
+  "github": {
+    "repository": "PandemGuild/Pandem",
+    "pull_request": {
+      "number": 42,
+      "state": "merged",
+      "merged_by": "EnterpriseClient",
+      "merge_commit_sha": "a1b2c3d4e5f6",
+      "reviews": [
+        { "reviewer": "SecurityAuditor1", "state": "APPROVED" },
+        { "reviewer": "SecurityAuditor2", "state": "APPROVED" },
+        { "reviewer": "SecurityAuditor3", "state": "APPROVED" }
+      ],
+      "check_runs": [
+        { "name": "Codecov", "conclusion": "success", "output": { "coverage": "95%" } }
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "twitter": {
+    "account": "SocialAgentKOL",
+    "metrics": {
+      "impressions_last_7_days": 350000,
+      "engagement_rate": "4.2%",
+      "clicks_to_app": 12500,
+      "followers": 51200
+    },
+    "status": "active"
+  },
+  "venice_ai_evaluation": {
+    "timestamp": "2026-03-21T01:00:00Z",
+    "ratios": {
+      "DevAgent": 0.55,
+      "SocialAgent": 0.45
+    }
+  }
+}
