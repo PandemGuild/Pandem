@@ -2,3 +2,7 @@ SKILL/
 DATA/
 conversationLog.md
 file_registry.md
+out/
+cache/
+contracts/out/
+contracts/cache/
