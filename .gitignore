@@ -6,3 +6,7 @@ out/
 cache/
 contracts/out/
 contracts/cache/
+conversationLog.md
+file_registry.md
+DATA/
+SKILL/
